@@ -86,6 +86,10 @@ h2{
     border-radius: 5px;
 }
 
+.details a:hover{
+    color: orange;
+}
+
 .images{
     width: 45%;
     height: 80%;
@@ -113,7 +117,7 @@ h2{
 
 .social{
     margin-left: 8%;
-    margin-top: 280px;
+    margin-top: 200px;
 }
 
 .social a{
@@ -123,5 +127,5 @@ h2{
 }
 
 .social a:hover{
-    color: orange;
+    color: rgb(255, 0, 0);
 }
